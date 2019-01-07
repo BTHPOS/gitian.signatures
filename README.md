@@ -1,1 +1,1 @@
-This repository contains gitian signatures for Bithereum. It should be updated on each release.
+Gitian signatures for Bithereum builds. Keys should be updated after each completed build.
